@@ -51,20 +51,11 @@ The analysis involves several key processes, including data filtering, cleaning,
 
 ### 8. **Total Casualties**
    This is the aggregate count of all casualties, combining fatal, serious, and slight injuries. It provides a high-level overview of road safety for the selected period.
+   
+## Preview
+![dasboard raod accident](https://github.com/Putri30dia/Road-Accident-Dashboard/blob/main/dasboard%20raod%20accident.png)
 
 ## Project Purpose
 - To provide a user-friendly tool for analyzing road accident data by breaking down complex information into clear and actionable insights.
 - To enable stakeholders such as policymakers, traffic safety analysts, and researchers to gain a deeper understanding of accident trends.
 - To leverage data visualization and analysis techniques to highlight areas of concern, identify recurring patterns, and support data-driven decision-making.
-
-## How to Use the Dashboard
-1. Download the Excel file from this repository.
-2. Use the slicers and timeline features to filter data by specific variables such as year, accident severity, or type of road surface.
-3. View the updated visualizations and insights on the dashboard based on your selected filters.
-4. Analyze trends, monitor changes over time, and export relevant charts for reporting or further analysis.
-
-## Preview
-![Preview Dashboard](screenshot.png)
-
----
-
