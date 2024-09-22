@@ -53,7 +53,7 @@ The analysis involves several key processes, including data filtering, cleaning,
    This is the aggregate count of all casualties, combining fatal, serious, and slight injuries. It provides a high-level overview of road safety for the selected period.
    
 ## Preview
-![dashboard road accident](https://github.com/Putri30dia/Road-Accident-Dashboard/blob/main/dasboard%20raod%20accident.png)
+![dashboard road accident](https://github.com/Putri30dia/Road-Accident-Dashboard/blob/main/dashboard%20road%20accident.png)
 
 ## Project Purpose
 - To provide a user-friendly tool for analyzing road accident data by breaking down complex information into clear and actionable insights.
